@@ -1,0 +1,6 @@
+{
+	"appId": "com.madadigital.net",
+	"appName": "zamart",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
